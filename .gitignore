@@ -1,0 +1,15 @@
+# Ignore IDE files  
+*.iml  
+.idea/  
+.vscode/  
+
+# Ignore OS files  
+.DS_Store  
+
+# Ignore compiled files  
+*.class  
+target/  
+
+# Ignore logs and reports  
+logs/  
+reports/  
